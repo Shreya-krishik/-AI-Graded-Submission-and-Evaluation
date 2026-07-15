@@ -1,7 +1,7 @@
 # AI-Graded Submission and Evaluation Application
 
 ### Repository Name
-`-AI-Graded-Submission-and-Evaluation`
+`xrwvm-fullstack_developer_capstone`
 
 ### Project Name
 `AI-Graded Submission and Evaluation Application`
